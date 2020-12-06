@@ -14,7 +14,7 @@ Nosso objetivo foi analisar dentre todos os candidatos disponíveis para as elei
 
 ## Relação de Candidatos por Gênero
 
-Tivemos em 2020, menos de 50% de candidatos do sexo feminino, sendo o total delas na disputa por um lugar na Câmara Municipal, pouco mais de 30 mil candidaturas e dos homens, mais de 60 mil candidaturas, como mostra o gráfico a seguir.
+Tivemos em 2020, pouco mais de 30% de candidatos do sexo feminino, sendo o total delas na disputa por um lugar na Câmara Municipal, pouco mais de 30 mil candidaturas e dos homens, mais de 60 mil candidaturas, como mostra o gráfico a seguir.
 
 ![candidatos-por-gênero](https://user-images.githubusercontent.com/57918707/101111689-764ed880-35ba-11eb-888d-7af598982ea3.png)
 
@@ -34,14 +34,23 @@ Durante nossa análise notamos que os Graus de Instrução são separados em oit
 
 Como podemos ver no gráfico a seguir, a maioria dos candidatos às eleições municipais de 2020 possuem o Ensino Médio Completo:
 
-
-![candidatos-grau-de-instrucao](https://user-images.githubusercontent.com/57918707/101111609-4e5f7500-35ba-11eb-91d7-f48dc5637c73.png)
+![candidatos-grau-de-instrucao](https://user-images.githubusercontent.com/57918707/101269386-2d7b5900-374d-11eb-9ebe-497fdc4c9ba0.png)
 
 
 Já com o próximo gráfico podemos entender melhor que a quantidade desses candidatos com Ensino Médio Completo chega a quase 40%, sendo possível também observar a porcentagem dos candidadatos com Ensino Superior Completo, que está em segundo lugar entre os Graus de Instrução citados anteriormente:
 
-![porcentagem-candidatos-grau-de-instrucao](https://user-images.githubusercontent.com/57918707/101112066-46540500-35bb-11eb-93e4-c1d871af0f18.png)
+![porcentagem-candidatos-grau-de-instrucao](https://user-images.githubusercontent.com/57918707/101269240-a24d9380-374b-11eb-8a68-879063cb7504.png)
+
 
 ## Relação entre Gênero e Grau de Instrução
 
-Pretendemos ainda fazer a relação entre os dois tópicos, que serão apresentados logo abaixo.
+À partir dos dados acima fizemos uma relação entre o Grau de Instrução dos candidatos e seus Gêneros. Com o gráfico abaixo podemos notar que a maioria dos candidatos do gênero masculino, cerca de quase 25 mil, possuem o Ensino Médio Completo, e há uma grande diferença para os candidatos que possuem Ensino Superior Completo, sendo cerca de pouco mais de 16 mil candidatos.
+
+Porém quando analisamos o perfil dos candidatos do gênero feminino, notamos que a diferença entre o número de mulheres com Ensino Médio e Ensino Superior Completo é bem menor, sendo que pouco mais de 12 mil candidatas possuem Ensino Médio Completo e quase 10 mil delas possuem o Ensino Superior Completo.
+
+![grau-de-instrucao-generos](https://user-images.githubusercontent.com/57918707/101269530-77187380-374e-11eb-8f86-374e0e15f228.png)
+
+Quando analisamos à partir dos próximos gráficos, concluímos que as mulheres possuem maior Grau de Instrução em relação aos candidatos homens, já que elas se encontram em menor número no âmbito eleitoral.
+
+![porcentagem-grau-de-instrucao-generos](https://user-images.githubusercontent.com/57918707/101269560-c52d7700-374e-11eb-871a-a1fa62fcb894.png)
+
